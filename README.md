@@ -1,2 +1,2 @@
 # Reinforcement Learning
- Notebooks from University of ALberta RL Courses
+ Notebooks from University of Alberta RL Courses
