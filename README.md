@@ -13,7 +13,7 @@ Value Functions & Bellman Equations
 Dynamic Programming
 
 
-# Course 2
+## Course 2
 Investigate several sample based learning algorithms that can learn near optimal policies based on trial and error interaction with the environment—learning from the agent's own experience. Learning from actual experience is striking because it requires no prior knowledge of the environment's dynamics, yet can still attain optimal behavior.  
 Using simple but powerful Monte Carlo methods, and temporal difference learning methods including Q-learning. Investigating how we can get the best of both worlds: algorithms that can combine model-based planning (similar to dynamic programming) and temporal difference updates to accelerate learning.
 
