@@ -7,10 +7,7 @@ Introduction to statistical learning techniques where an agent explicitly takes 
 
 <ins>Key Ideas</ins>
 
-The K-Armed Bandit Problem
-
-Markov Decision Processes
-
-Value Functions & Bellman Equations
-
+The K-Armed Bandit Problem  
+Markov Decision Processes  
+Value Functions & Bellman Equations  
 Dynamic Programming
